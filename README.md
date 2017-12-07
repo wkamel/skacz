@@ -1,8 +1,7 @@
 Skacz - Jump!
--------------
-
+=============
 One of my experiments with RaspberryPi.
-=======================================
+---------------------------------------
 
 This simple project utilises proximity sensor to control Hello Kitty on the screen.
 
