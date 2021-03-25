@@ -14,7 +14,7 @@ PyBluez==0.18
 PyChart==1.39
 PyOpenGL==3.0.2
 PyRoom==0.4.1
-PyYAML==3.10
+PyYAML==5.4
 Pygments==1.6
 Routes==2.0
 Twisted-Core==13.2.0
