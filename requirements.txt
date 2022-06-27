@@ -88,7 +88,7 @@ python-openid==2.2.5
 pytz==2012c
 pyvorbis==1.5
 pyxdg==0.25
-reportlab==3.0
+reportlab==3.5.55
 repoze.lru==0.6
 requests==2.2.1
 roman==2.0.0
